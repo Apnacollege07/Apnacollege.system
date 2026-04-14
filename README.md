@@ -1,6 +1,6 @@
 # Apnacollege.system
 This is my first Repository.
 <br>
-Founder-CHAITANYA RANJA
+Founder-CHAITANYA RANJAN
 <br>
 Author-Saurabh kumar
